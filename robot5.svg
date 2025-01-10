@@ -1,7 +1,6 @@
 
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 453.176 453.176" style="enable-background:new 0 0 453.176 453.176;" xml:space="preserve">
-<symbol id="rd-icon-spotter">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width:0;height:0;visibility:hidden;">
+<symbol id="rd-icon-spotter" viewBox="0 0 453.176 453.176">
 	<path d="M323.088,145.789V30.211c0-5.079-4.132-9.211-9.211-9.211H139.299c-5.079,0-9.211,4.132-9.211,9.211v115.578
 		c0,5.079,4.132,9.211,9.211,9.211h174.578C318.956,155,323.088,150.868,323.088,145.789z M313.088,145h-173V31h173V145z"/>
 	<rect x="173.088" y="72" width="10" height="31"/>
