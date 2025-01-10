@@ -1,6 +1,6 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 453.176 453.176" style="enable-background:new 0 0 453.176 453.176;" xml:space="preserve">
-<symbol id="rd-icon-spotter">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 453.176 453.176">
+  <symbol id="rd-icon-spotter" viewBox="0 0 453.176 453.176"> 
 <g>
 	<path d="M323.088,145.789V30.211c0-5.079-4.132-9.211-9.211-9.211H139.299c-5.079,0-9.211,4.132-9.211,9.211v115.578
 		c0,5.079,4.132,9.211,9.211,9.211h174.578C318.956,155,323.088,150.868,323.088,145.789z M313.088,145h-173V31h173V145z"/>
@@ -45,5 +45,5 @@
 		c-9.17,0-16.631-7.461-16.631-16.631V214.625c0-9.167,7.458-16.625,16.625-16.625h181.75c9.167,0,16.625,7.458,16.625,16.625
 		V347.369z M370.088,237.071l7-7V305h-7V237.071z M344.088,230v-7h25.929l-7,7H344.088z M370.088,328.5V315h7v13.5H370.088z"/>
 </g>
-</symbol>
+    </symbol>
 </svg>
