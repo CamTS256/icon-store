@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     style="width:0;height:0;visibility:hidden;">
-  <defs/>
-  <symbol id="rd-icon-spotter" viewBox="0 0 24 24" fill="black">
-    <path d="M2.32 3.5C2.32 2.5 3.5 2.5 3.5 2.5h12.5c3 0 5.5 1.5 5.5 6 0 3-2 4.5-3.5 5 2 .5 3.5 2 3.5 5s-2.5 6-5.5 6H3.5c-1 0-1.18-1-1.18-2.18V3.5zm3 3.18v4.24h5.27c2.21 0 3.65-1.06 3.65-2.98s-1.14-2.74-3.52-2.74H5.32zm0 5.73v6.33h5.68c2.53 0 4.17-1.12 4.17-3.21 0-2.32-2.07-3.12-4.66-3.12H5.32zm10.68 7.65a1.72 1.72 0 113.5 0 1.72 1.72 0 01-3.5 0z"/>
-  </symbol>
-</svg>
