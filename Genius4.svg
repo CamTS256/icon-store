@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     style="width:0;height:0;visibility:hidden;">
+  <defs/>
+  <symbol id="rd-icon-spotter" viewBox="0 0 200 200" fill="#062f7b">
+    <!-- white tile background -->
+    <rect x="0" y="0" width="200" height="200" fill="#FFFFFF"/>
+
+    <!-- bold rounded G -->
+    <path fill="#062f7b" d="
+      M 60 50
+      Q 60 30 75 18
+        90 6 112 6
+        134 6 149 18
+        164 30 164 52
+      L 164 90
+      L 116 90
+      L 116 74
+      Q 116 64 110 58
+        104 52 94 52
+        84 52 78 58
+        72 64 72 74
+      L 72 126
+      Q 72 136 78 142
+        84 148 94 148
+        104 148 110 142
+        116 136 116 126
+      L 116 120
+      L 164 120
+      L 164 148
+      Q 164 170 149 182
+        134 194 112 194
+        90 194 75 182
+        60 170 60 148
+      Z"/>
+  </symbol>
+</svg>
