@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     style="width:0;height:0;visibility:hidden;">
+  <defs/>
+  <symbol id="rd-icon-genius-g" viewBox="0 0 200 200" fill="#062f7b">
+    <!-- White background tile -->
+    <rect x="0" y="0" width="200" height="200" fill="#FFFFFF"/>
+
+    <!-- Filled G shape (no text) -->
+    <path fill="#062f7b" d="M62 50c7.5-7.7 18.9-12 33.4-12 28.4 0 45.6 15.9 45.6 41.6v40.8h-35v-9
+      c-4.6 6.8-12.4 11-23.2 11-10.4 0-19.2-3.4-25.5-9.8S50 99.4 50 88.3c0-11.4 3.8-20.6 12-28.3zm32.4 51.7
+      c7.9 0 14.1-5.3 14.1-13.5 0-8.3-6.2-13.6-14.1-13.6-7.8 0-14 5.3-14 13.6 0 8.2 6.2 13.5 14 13.5z"/>
+  </symbol>
+</svg>
