@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     style="width:0;height:0;visibility:hidden;">
+  <defs>
+    <radialGradient id="rd-icon-spotter" cx="211.336" cy="-12.2439" r="93.1487" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FCC54C"/>
+      <stop offset="0.5978" stop-color="#F15D22"/>
+      <stop offset="1" stop-color="#E23F13"/>
+    </radialGradient>
+  </defs>
+
+  <symbol id="rd-icon-advanced-a" viewBox="160 0 100 80" fill="none">
+    <polygon fill="url(#SVGID_1_)"
+             points="254.1,78.6 211.3,0 168.5,78.6 188,78.6 211.3,35.8 234.6,78.6 254.1,78.6 254.1,78.6"/>
+  </symbol>
+</svg>
