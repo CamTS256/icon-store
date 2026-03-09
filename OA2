@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="rd-spotter-icon"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px"
+     viewBox="0 0 640.2 80"
+     style="enable-background:new 0 0 640.2 80;"
+     xml:space="preserve">
+
+  <style type="text/css">
+    .st1{fill:url(#SVGID_1_);}
+  </style>
+
+  <radialGradient id="SVGID_1_" cx="211.336" cy="-12.2439" r="93.1487" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#FCC54C"/>
+    <stop offset="0.5978" style="stop-color:#F15D22"/>
+    <stop offset="1" style="stop-color:#E23F13"/>
+  </radialGradient>
+
+  <polygon class="st1"
+           points="254.1,78.6 211.3,0 168.5,78.6 188,78.6 211.3,35.8 234.6,78.6 254.1,78.6 254.1,78.6"/>
+</svg>
