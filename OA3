@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     style="width:0;height:0;visibility:hidden;">
+  <defs/>
+  <symbol id="rd-icon-spotter" viewBox="0 0 100 80" fill="none">
+    <!-- OneAdvanced “A” shape, using a solid color approximating the gradient -->
+    <polygon fill="#F15D22"
+             points="94.1,78.6 51.3,0 8.5,78.6 28,78.6 51.3,35.8 74.6,78.6 94.1,78.6"/>
+  </symbol>
+</svg>
